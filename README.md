@@ -21,6 +21,12 @@ walks through, step by step:
 6. Assembling a **two-layer Graph Convolutional Network (GCN)**
 7. Training it with TensorFlow 2 and reading the results (~75% accuracy)
 
+## Theory
+
+For the mathematical foundations — spectral graph theory, expressivity (Weisfeiler–Leman),
+graph diffusion, and the geometry/topology of GNNs (including **sheaves**, parallel
+transport, and curvature) — see [THEORY.md](./THEORY.md).
+
 ## Key concepts explained
 
 - Message passing / neighbourhood aggregation
