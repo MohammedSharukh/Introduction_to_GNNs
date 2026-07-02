@@ -24,7 +24,7 @@ walks through, step by step:
 ## Theory
 
 For the mathematical foundations — spectral graph theory, expressivity (Weisfeiler–Leman),
-graph diffusion, and the geometry/topology of GNNs (including **sheaves**, parallel
+graph diffusion, and the geometry/topology of GNNs (including sheaves, parallel
 transport, and curvature) — see [THEORY.md](./THEORY.md).
 
 ## Key concepts explained
